@@ -16,13 +16,7 @@ An AI and IoT integrated smart stove safety system that uses Deep Learning and e
 **Technologies Used**
          **Tools / Technologies** 
 
-     Python,
-            CNN (Convolutional Neural Network),
-         OpenCV,
-                 Arduino ,
-                Servo Motor x2,
-                 Gas Sensor (MQ-2 / MQ-6),
-                  IoT, Embedded Systems, AI
+Python, CNN (Convolutional Neural Network), OpenCV, Arduino , Servo Motor x2, Gas Sensor (MQ-2 / MQ-6), IoT, Embedded Systems, AI
 
 **How It Works**
 
