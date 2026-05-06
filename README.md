@@ -1,5 +1,5 @@
-AI–IoT Based Smart Stove for Enhanced Safety
-
+**AI-IoT-Based-Smart-Stove-for-Enhanced-Safety
+**
 **Project Overview**
 An AI and IoT integrated smart stove safety system that uses Deep Learning and embedded hardware to prevent kitchen accidents caused by children and LPG gas leakages.
 
@@ -57,15 +57,19 @@ Serial (PySerial)
 ## 📷 Project Screenshots
 
 ### 🧒 Child Detected — Stove Auto Lock
-![Child Detection](images/child_detection.jpg)
+
+<img width="357" height="274" alt="Screenshot 2026-05-06 120659" src="https://github.com/user-attachments/assets/a313c816-c0e0-4304-a5f3-cd04a85b6d9d" />
+
 > Age (4–6) detected → Cmd: LOCK → Servo motor turns OFF stove knob
 
 ### 👩 Adult Detected — Stove Remains ON
-![Adult Detection](images/adult_detection.jpg)
+<img width="497" height="347" alt="Screenshot 2025-06-10 165317" src="https://github.com/user-attachments/assets/45b6360b-05bb-436c-a49a-5c231b0dd700" />
+
 > Age (38–43) detected → No action → Stove remains ON
 
 ### 🔌 Circuit Diagram
-![Circuit Diagram](images/circuit_diagram.jpg)
+<img width="984" height="733" alt="Screenshot 2025-06-03 161308" src="https://github.com/user-attachments/assets/994f6324-3d3b-44d9-b830-4dc17acd1c65" />
+
 > Arduino UNO + MQ Gas Sensor + Servo Motor + Buzzer + LED
 
 **Author**
