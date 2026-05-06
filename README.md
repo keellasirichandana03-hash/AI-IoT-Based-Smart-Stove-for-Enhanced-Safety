@@ -1,5 +1,6 @@
-**AI-IoT-Based-Smart-Stove-for-Enhanced-Safety
-**
+**AI-IoT-Based-Smart-Stove-for-Enhanced-Safety**
+
+
 **Project Overview**
 An AI and IoT integrated smart stove safety system that uses Deep Learning and embedded hardware to prevent kitchen accidents caused by children and LPG gas leakages.
 
