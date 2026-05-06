@@ -86,7 +86,7 @@ Serial (PySerial)
 | **Name** | K Siri Chandana Lakshmi Priyanka |
 | **Degree** | B.Tech / B.E. |
 | **College** | BVRIT Hyderabad College of Engineering for Women |
-| **Email** | keellasirichandana0@gmail.com |
+| **Email** | keellasirichandana03@gmail.com |
 | **LinkedIn** | [linkedin.com/in/keella-siri-chandana](https://www.linkedin.com/in/keella-siri-chandana-lakshmi-priyanka-166654259/) |
 
 **License**
