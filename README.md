@@ -14,16 +14,15 @@ An AI and IoT integrated smart stove safety system that uses Deep Learning and e
 5) Live camera feed processing using OpenCV
 
 **Technologies Used**
+         **Tools / Technologies** 
 
-**Category**          **Tools / Technologies** 
-
-Programming Language     Python
-Deep Learning            CNN (Convolutional Neural Network)
-Computer Vision          OpenCV
-Hardware                 Arduino 
-Actuators                Servo Motor x2
-Sensor                   Gas Sensor (MQ-2 / MQ-6)
-Domain                   IoT, Embedded Systems, AI
+     Python,
+            CNN (Convolutional Neural Network),
+         OpenCV,
+                 Arduino ,
+                Servo Motor x2,
+                 Gas Sensor (MQ-2 / MQ-6),
+                  IoT, Embedded Systems, AI
 
 **How It Works**
 
